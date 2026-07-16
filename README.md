@@ -29,7 +29,6 @@ class Tanishq:
         "FastAPI",
         "React",
         "Next.js",
-        "Open Source",
         "Automation"
     ]
 
