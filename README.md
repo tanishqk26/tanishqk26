@@ -4,7 +4,6 @@
 
 ### AI Engineer • Full Stack Developer • Building Autonomous AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Applications;LLMs+%7C+LangGraph+%7C+FastAPI;Full+Stack+Developer;Automation+Enthusiast;Always+Shipping+Cool+Stuff+🚀" />
 
 </div>
 
