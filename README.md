@@ -25,7 +25,7 @@ role:       AI Engineer @ PhazeAI
 location:   Pune, India
 focus:      Agentic AI • RAG • Multi-Agent Systems • Full-Stack AI Products
 stack:      Next.js + Supabase + n8n + Python
-mantra:     "Ship products people actually use."
+
 ```
 
 ---
@@ -131,14 +131,7 @@ A RAG-based *digital twin* letting coaches clone their expertise into a shareabl
 Full voice-to-voice conversational AI (`STT → LLM → TTS`) with a JWT-authenticated FastAPI backend and a **dual-layer memory system**: Redis for short-term context, pgvector for long-term semantic recall.
 
 </td>
-<td width="50%" valign="top">
 
-### Meetsaar — Meeting Intelligence
-`Next.js` · `Supabase` · `Diarization` · `LLMs`
-
-Speaker-diarized transcription, AI summaries & auto-extracted action items integrated with client calendars. In daily use across multiple customer teams.
-
-</td>
 </tr>
 </table>
 
