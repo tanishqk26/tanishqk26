@@ -150,10 +150,9 @@ Full voice-to-voice conversational AI (`STT → LLM → TTS`) with a JWT-authent
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanishqk26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqk26&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqk26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8"/>
 
 </div>
 
